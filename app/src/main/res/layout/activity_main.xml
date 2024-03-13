@@ -26,6 +26,7 @@
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="20sp"
+        android:backgroundTint="@color/pink"
         android:background="@drawable/round_button"/>
 
 

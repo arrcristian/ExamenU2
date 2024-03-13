@@ -15,13 +15,13 @@
 
 
         <ImageView
-            android:id="@+id/iv_pelicula_image"
+            android:id="@+id/iv_regalo"
             android:layout_width="match_parent"
             android:layout_height="250dp"
             app:srcCompat="@drawable/cumplebotanas" />
 
         <TextView
-            android:id="@+id/tv_nombre_pelicula"
+            android:id="@+id/tv_precio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
